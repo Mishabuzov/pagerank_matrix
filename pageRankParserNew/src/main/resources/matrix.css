@@ -1,0 +1,21 @@
+td, th {
+    height: 30px;
+    border: 3px solid cornflowerblue;
+    padding: 5px;
+}
+
+table {
+    text-align: center;
+    border: 3px solid cornflowerblue;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    background: lightcoral;
+}
+
+.adjacent {
+    background: greenyellow;
+}
+
